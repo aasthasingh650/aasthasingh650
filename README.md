@@ -1,5 +1,5 @@
 <h2 align="left">Hi👋, I'm Aastha Singh</h1>
-<h3 align="center">A Second Year B.Tech Undergraduate from Indian Institute of Information Technology Allahabad, India</h3>
+<h3 align="center">A Third Year B.Tech Undergraduate from Indian Institute of Information Technology Allahabad, India</h3>
 
 <br/>
 
